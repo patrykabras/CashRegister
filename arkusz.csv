@@ -1,0 +1,13 @@
+kod_produktu,nazwa_produktu,jednostka,stawka_VAT,cena_netto
+1,Butelka_Wody,szt.,0.05,1
+2,Banan,szt.,0.05,2
+3,Cukierek,kg,0.08,15
+4,Gwiazdka,szt.,0.23,1000
+5,Cebula,kg,0.05,5
+6,Mieso,kg,0.08,6
+7,Czosnek,szt.,0.05,1
+8,Opakowanie_Makaronu,szt.,0.05,8
+9,Zeszyt,szt.,0.05,4
+10,Karta_Graficzna,szt.,0.23,2000
+11,RJ-45,szt.,0.05,1
+12,Piasek,kg,0.05,50
